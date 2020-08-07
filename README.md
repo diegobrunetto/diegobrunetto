@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Jr Frontend developer
 
 - 🔭 I’m currently working on a Google imitation project.
 - 🌱 I’m currently learning ReactJs and Redux.
