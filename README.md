@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jr Frontend developer
 
-- 🔭 I’m currently working on a authenticated todo app project.
+- 🔭 I’m currently working on e-commerce app project.
 - 🌱 I’m currently learning ReactJs and Redux.
 - 👯 I’m looking to collaborate on new open sources ideas.
 - 💬 Ask me about freelance projects.
