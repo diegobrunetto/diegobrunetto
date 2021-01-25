@@ -10,6 +10,3 @@
 
 👔 LinkedIn:[/diego-brunetto](http://www.linkedin.com/in/diego-brunetto)
 
-🐱 Github:[/diegobrunetto](https://github.com/diegobrunetto)
-
-
