@@ -12,7 +12,7 @@ I am a self-taught developer from Argentina 🇦🇷.
  
 - 🌱 I'm currently learning **Functional Programming, Design Patterns**
 - 🏝 My dream is travel the world in my van 🚐
-- 🔭 I'm currently working on a e-commerce solution for a family bussines
+- 🔭 I'm currently working on a trade marketing solution for supermarkets
 - 🤔 I'm looking for 100% remote jobs
 - 💬 You can ask me about freelance projects
 
