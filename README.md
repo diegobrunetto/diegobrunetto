@@ -11,11 +11,7 @@ I am a self-taught developer from Argentina 🇦🇷.
   
  
 - 🌱 I'm currently learning **Functional Programming, Design Patterns**
-- 🏝 My dream is travel the world in my van 🚐
-- 🔭 I'm currently working on a trade marketing solution for supermarkets
-- 🤔 I'm looking for 100% remote jobs
-- 💬 You can ask me about freelance projects
-
+- 🔭 I'm currently working remote on a startup 
 
 
 ## &#x1f4c8; My GitHub Stats
